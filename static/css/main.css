@@ -1,0 +1,8 @@
+nav {
+    justify-content: space-between;
+    padding: 0 1rem 0 1rem;
+}
+
+#toggle-this {
+    justify-content: flex-end;
+}
